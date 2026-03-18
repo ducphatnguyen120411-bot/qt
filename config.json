@@ -1,3 +1,12 @@
 {
-    "client_id": "YOUR_APPLICATION_ID_HERE"
+    "client_id": "YOUR_CLIENT_ID_HERE",
+    "games": [
+        "Arknights: Endfield",
+        "Call of Duty: Warzone",
+        "Where Winds Meet",
+        "Cyberpunk 2077",
+        "GTA V",
+        "Fortnite",
+        "Minecraft"
+    ]
 }
